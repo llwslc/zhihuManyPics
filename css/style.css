@@ -8,17 +8,11 @@ body {
     padding: 0;
 }
 
-.container {
-    overflow: auto;
-    max-width: 940px;
-    margin: 0 auto;
-}
-
 .banner {
     overflow: auto;
     margin-bottom: 20px;
-    background-color: #555;
-    color: #fff;
+    background-color: #076ace;
+    color: #000;
 }
 
 .banner a {
