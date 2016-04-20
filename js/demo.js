@@ -49,14 +49,14 @@
 
     var temp = document.createElement("textarea");
     temp.hidden = true;
+    temp.value = "temp"
     document.body.appendChild(temp);
-    // temp.text("text").select();
-    // document.execCommand('copy');
+    temp.select();
+    document.execCommand('copy');
 
     document.addEventListener('copy', function(e){
-        console.log(123)
-        // e.clipboardData.setData('text/plain', 'Hello, world!');
-        // e.clipboardData.setData('text/html', '<b>Hello, world!</b>');
-        // e.preventDefault(); // We want our data, not data from any selection, to be written to the clipboard
+        e.clipboardData.setData('text/plain', 'Hello, world!');
+        e.clipboardData.setData('text/html', '<b>Hello, world!</b>');
+        e.preventDefault();
     });
 })();
