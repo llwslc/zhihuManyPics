@@ -45,11 +45,13 @@
             .replace(/>/g, '&gt;');
     }
 
-        $body.append('<textarea id="temp"/>');
-        var $test = $('#temp');
-        $test.text("text").select();
-        document.execCommand('copy');
-        $test.remove();
+
+
+    var temp = document.createElement("textarea");
+    temp.hidden = true;
+    document.body.appendChild(temp);
+    // temp.text("text").select();
+    // document.execCommand('copy');
 
     document.addEventListener('copy', function(e){
         console.log(123)
