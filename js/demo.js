@@ -1,35 +1,39 @@
 (function() {
-    document.getElementById("document")
+    document.getElementById("selectFileBtn")
         .addEventListener("change", handleFileSelect, false);
-        
+
     function handleFileSelect(event) {
         readFileInputEventAsArrayBuffer(event, function(arrayBuffer) {
             mammoth.convertToHtml({arrayBuffer: arrayBuffer})
                 .then(displayResult)
-                .done();
+                .done(clearFileSelect);
         });
     }
-    
-    function displayResult(result) {
-        document.getElementById("output").innerHTML = result.value;
-        
-        var messageHtml = result.messages.map(function(message) {
-            return '<li class="' + message.type + '">' + escapeHtml(message.message) + "</li>";
-        }).join("");
-        
-        document.getElementById("messages").innerHTML = "<ul>" + messageHtml + "</ul>";
+
+    function clearFileSelect() {
+        document.getElementById("selectFileBtn").value = ""
     }
-    
+
+    function displayResult(result) {
+        console.log(result)
+        // document.getElementById("output").innerHTML = result.value;
+
+        // var messageHtml = result.messages.map(function(message) {
+        //     return '<li class="' + message.type + '">' + escapeHtml(message.message) + "</li>";
+        // }).join("");
+
+        // document.getElementById("messages").innerHTML = "<ul>" + messageHtml + "</ul>";
+    }
+
     function readFileInputEventAsArrayBuffer(event, callback) {
         var file = event.target.files[0];
-
         var reader = new FileReader();
-        
+
         reader.onload = function(loadEvent) {
             var arrayBuffer = loadEvent.target.result;
             callback(arrayBuffer);
         };
-        
+
         reader.readAsArrayBuffer(file);
     }
 
@@ -40,4 +44,17 @@
             .replace(/</g, '&lt;')
             .replace(/>/g, '&gt;');
     }
+
+        $body.append('<textarea id="temp"/>');
+        var $test = $('#temp');
+        $test.text("text").select();
+        document.execCommand('copy');
+        $test.remove();
+
+    document.addEventListener('copy', function(e){
+        console.log(123)
+        // e.clipboardData.setData('text/plain', 'Hello, world!');
+        // e.clipboardData.setData('text/html', '<b>Hello, world!</b>');
+        // e.preventDefault(); // We want our data, not data from any selection, to be written to the clipboard
+    });
 })();

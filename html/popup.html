@@ -2,29 +2,18 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Mammoth</title>
+    <title>多图累人</title>
     <link rel="stylesheet" type="text/css" href="../css/style.css">
   </head>
   <body>
     <div class="banner">
-      <div class="container">
-        <h1><a href="/">Mammoth</a></h1>
-      </div>
+      <label id="mlabel" class="spaceLabel">&nbsp;</label>
+      <h1>我有很多图</h1>
+      <label class="selectFile" for="selectFileBtn"> 我写在了word里
+        <input id="selectFileBtn" type="file" accept="application/msword, application/vnd.openxmlformats-officedocument.wordprocessingml.document">
+        </input>
+      </label>
     </div>
-    <div class="container">
-      <input id="document" type="file" />
-      <div class="row">
-        <div class="span8">
-          <div id="output" class="well">
-          </div>
-        </div>
-        <div class="span4">
-          <h3>Messages</h3>
-          <div id="messages">
-          </div>
-        </div>
-    </div>
-
     <script src="../js/mammoth.browser.js"></script>
     <script src="../js/demo.js"></script>
   </body>

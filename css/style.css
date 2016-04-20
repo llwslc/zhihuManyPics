@@ -4,46 +4,60 @@ html {
 }
 
 body {
+    min-width: 800px;
     margin: 0;
     padding: 0;
 }
 
 .banner {
     overflow: auto;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     background-color: #076ace;
-    color: #000;
-}
-
-.banner a {
     color: #fff;
 }
 
 .banner h1 {
-    font-size: 20px;
-    line-height: 2;
-    margin: 0.5em 0;
-}
-
-.span8, .span4 {
     float: left;
+    font-size: 20px;
+    height: 2;
+    line-height: 2;
+    margin: 0 20px;
 }
 
-.span8 {
-    width: 620px;
+.spaceLabel {
+    float: left;
+    width: 450px;
 }
 
-.span4 {
-    margin: 0 0 0 20px;
+.selectFile {
+    padding: 5px 10px 5px 10px;
+    font-size: 20px;
+    height: 20px;
+    line-height: 2;
+    cursor: pointer;
+    color: #fff;
+    background: #076ace;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+    display: inline;
+    zoom: 1;
 }
 
-.well {
-    background-color: #f2f2f2;
-    border: 1px solid #ccc;
-    padding: 1em;
-    min-height: 200px;
+.selectFile input {
+    position: absolute;
+    font-size: 0;
+    right: 0;
+    top: 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    cursor: pointer;
+    zoom: -1;
 }
 
-.messages .warning {
-    color: #cc6600;
+.selectFile:hover {
+    color: #076ace;
+    background: #fff;
+    border-color: #000;
+    text-decoration: none;
 }

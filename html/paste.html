@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+  <div id="div" style="width:100%;height:700px;border:1px solid #ccc;padding:20px" contenteditable="true"></div>
+  <script>
+    var div = document.getElementById('div');
+    div.addEventListener('paste', function(e) {
+      console.log(e)
+      if(e.clipboardData) {
+        for(var i = 0; i < e.clipboardData.items.length; i++) {
+          var c = e.clipboardData.items[i];
+          if(c.kind == 'file')
+          {
+            var f = c.getAsFile();
+            var reader = new FileReader();
+            reader.onload = function(e) {
+              div.innerHTML += '<img src="' + e.target.result + '">';
+            }
+            reader.readAsDataURL(f);
+
+            console.log(c)
+            console.log("--------")
+          }
+          else
+          {
+              console.log(c)
+            c.getAsString(function(s){
+              console.log(s);
+              console.log("--------")
+            })
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
+
