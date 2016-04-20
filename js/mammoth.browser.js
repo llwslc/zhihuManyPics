@@ -1,723 +1,723 @@
 // Module: mammoth@0.3.33
 // License: BSD-2-Clause
-// 
+//
 // Module: mammoth@0.3.33 => xmlbuilder@2.6.5
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => xmlbuilder@2.6.5 => lodash@3.10.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => underscore@1.6.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => uglify-js@2.4.24
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => uglify-js@2.4.24 => yargs@3.5.4
 // License: MIT/X11
-// 
+//
 // Module: mammoth@0.3.33 => uglify-js@2.4.24 => yargs@3.5.4 => wordwrap@0.0.2
 // License: MIT/X11
-// 
+//
 // Module: mammoth@0.3.33 => uglify-js@2.4.24 => yargs@3.5.4 => window-size@0.1.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => uglify-js@2.4.24 => yargs@3.5.4 => decamelize@1.1.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => uglify-js@2.4.24 => yargs@3.5.4 => camelcase@1.2.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => uglify-js@2.4.24 => uglify-to-browserify@1.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => uglify-js@2.4.24 => source-map@0.1.34
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => uglify-js@2.4.24 => source-map@0.1.34 => amdefine@1.0.0
 // License: BSD-3-Clause AND MIT
-// 
+//
 // Module: mammoth@0.3.33 => temp@0.7.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => temp@0.7.0 => rimraf@2.2.8
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => sax@1.1.4
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => path-is-absolute@1.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => nomnom@1.6.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => nomnom@1.6.2 => underscore@1.4.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => nomnom@1.6.2 => colors@0.5.1
 // License: Unknown license
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => supports-color@1.2.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => mkdirp@0.5.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => mkdirp@0.5.0 => minimist@0.0.8
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => jade@0.26.3
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => jade@0.26.3 => mkdirp@0.3.0
 // License: MIT/X11
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => jade@0.26.3 => commander@0.6.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => growl@1.8.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => glob@3.2.3
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => glob@3.2.3 => minimatch@0.2.14
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => glob@3.2.3 => minimatch@0.2.14 => sigmund@1.0.1
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => glob@3.2.3 => minimatch@0.2.14 => lru-cache@2.7.3
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => glob@3.2.3 => inherits@2.0.1
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => glob@3.2.3 => graceful-fs@2.0.3
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => escape-string-regexp@1.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => diff@1.4.0
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => debug@2.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => debug@2.0.0 => ms@0.6.2
 // License: Unknown license
-// 
+//
 // Module: mammoth@0.3.33 => mocha@2.2.5 => commander@2.3.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => lop@0.3.0
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => lop@0.3.0 => underscore@1.4.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => lop@0.3.0 => option@0.2.2
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => license-sniffer@0.1.2
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => license-sniffer@0.1.2 => underscore@1.4.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => license-sniffer@0.1.2 => q@0.9.7
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => license-sniffer@0.1.2 => optimist@0.3.7
 // License: MIT/X11
-// 
+//
 // Module: mammoth@0.3.33 => license-sniffer@0.1.2 => optimist@0.3.7 => wordwrap@0.0.2
 // License: MIT/X11
-// 
+//
 // Module: mammoth@0.3.33 => license-sniffer@0.1.2 => natural@0.1.29
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => license-sniffer@0.1.2 => natural@0.1.29 => sylvester@0.0.21
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => license-sniffer@0.1.2 => natural@0.1.29 => apparatus@0.0.8
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => license-sniffer@0.1.2 => markdown@0.4.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => license-sniffer@0.1.2 => markdown@0.4.0 => nopt@1.0.10
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => license-sniffer@0.1.2 => markdown@0.4.0 => nopt@1.0.10 => abbrev@1.0.5
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jszip@2.5.0
 // License: MIT or GPLv3
-// 
+//
 // Module: mammoth@0.3.33 => jszip@2.5.0 => pako@0.2.7
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1
 // License: (MIT AND JSON)
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => strip-json-comments@1.0.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => shelljs@0.3.0
 // License: BSD*
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => minimatch@2.0.10
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => minimatch@2.0.10 => brace-expansion@1.1.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => minimatch@2.0.10 => brace-expansion@1.1.2 => concat-map@0.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => minimatch@2.0.10 => brace-expansion@1.1.2 => balanced-match@0.3.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => lodash@3.7.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => readable-stream@1.1.13
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => readable-stream@1.1.13 => string_decoder@0.10.31
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => readable-stream@1.1.13 => isarray@0.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => readable-stream@1.1.13 => inherits@2.0.1
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => readable-stream@1.1.13 => core-util-is@1.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => entities@1.0.0
 // License: BSD-like
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => domutils@1.5.1
 // License: BSD 2-Clause
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => domutils@1.5.1 => dom-serializer@0.1.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => domutils@1.5.1 => dom-serializer@0.1.0 => entities@1.1.1
 // License: BSD-like
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => domutils@1.5.1 => dom-serializer@0.1.0 => domelementtype@1.1.3
 // License: BSD 2-Clause
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => domhandler@2.3.0
 // License: BSD 2-Clause
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => htmlparser2@3.8.3 => domelementtype@1.3.0
 // License: BSD 2-Clause
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => exit@0.1.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => console-browserify@1.1.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => console-browserify@1.1.0 => date-now@0.1.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => cli@0.6.6
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => cli@0.6.6 => glob@3.2.11
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => cli@0.6.6 => glob@3.2.11 => minimatch@0.3.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => cli@0.6.6 => glob@3.2.11 => minimatch@0.3.0 => sigmund@1.0.1
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => cli@0.6.6 => glob@3.2.11 => minimatch@0.3.0 => lru-cache@2.7.3
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => jshint@2.9.1-rc1 => cli@0.6.6 => glob@3.2.11 => inherits@2.0.1
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => duck@0.1.11
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => xtend@4.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => vm-browserify@0.0.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => vm-browserify@0.0.4 => indexof@0.0.1
 // License: Unknown license
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => util@0.10.3
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => url@0.11.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => url@0.11.0 => querystring@0.2.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => tty-browserify@0.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => timers-browserify@1.4.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => through2@2.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => syntax-error@1.1.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => syntax-error@1.1.4 => acorn@1.2.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => subarg@1.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => subarg@1.0.0 => minimist@1.2.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => string_decoder@0.10.31
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => stream-http@2.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => stream-http@2.0.2 => builtin-status-codes@1.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => stream-browserify@2.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => shell-quote@1.4.3
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => shell-quote@1.4.3 => jsonify@0.0.0
 // License: Public Domain
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => shell-quote@1.4.3 => array-reduce@0.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => shell-quote@1.4.3 => array-map@0.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => shell-quote@1.4.3 => array-filter@0.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => shasum@1.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => shasum@1.0.2 => sha.js@2.4.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => shasum@1.0.2 => json-stable-stringify@0.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => shasum@1.0.2 => json-stable-stringify@0.0.1 => jsonify@0.0.0
 // License: Public Domain
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => resolve@1.1.6
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => readable-stream@2.0.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => readable-stream@2.0.4 => util-deprecate@1.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => readable-stream@2.0.4 => process-nextick-args@1.0.3
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => readable-stream@2.0.4 => core-util-is@1.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => read-only-stream@2.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => querystring-es3@0.2.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => punycode@1.3.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => process@0.11.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => path-browserify@0.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => parents@1.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => parents@1.0.1 => path-platform@0.11.15
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => os-browserify@0.1.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => module-deps@4.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => module-deps@4.0.2 => stream-combiner2@1.1.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => module-deps@4.0.2 => detective@4.3.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => module-deps@4.0.2 => detective@4.3.1 => acorn@1.2.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => labeled-stream-splicer@2.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => labeled-stream-splicer@2.0.0 => stream-splicer@2.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => isarray@0.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => insert-module-globals@7.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => insert-module-globals@7.0.1 => lexical-scope@1.2.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => insert-module-globals@7.0.1 => lexical-scope@1.2.0 => astw@2.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => insert-module-globals@7.0.1 => lexical-scope@1.2.0 => astw@2.0.0 => acorn@1.2.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => insert-module-globals@7.0.1 => is-buffer@1.1.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => insert-module-globals@7.0.1 => combine-source-map@0.7.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => insert-module-globals@7.0.1 => combine-source-map@0.7.1 => source-map@0.4.2
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => insert-module-globals@7.0.1 => combine-source-map@0.7.1 => source-map@0.4.2 => amdefine@1.0.0
 // License: BSD-3-Clause AND MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => insert-module-globals@7.0.1 => combine-source-map@0.7.1 => lodash.memoize@3.0.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => insert-module-globals@7.0.1 => combine-source-map@0.7.1 => inline-source-map@0.6.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => insert-module-globals@7.0.1 => combine-source-map@0.7.1 => convert-source-map@1.1.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => inherits@2.0.1
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => https-browserify@0.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => htmlescape@1.1.0
 // License: Unknown license
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => has@1.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => has@1.0.1 => function-bind@1.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => glob@5.0.15
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => glob@5.0.15 => once@1.3.2
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => glob@5.0.15 => once@1.3.2 => wrappy@1.0.1
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => glob@5.0.15 => minimatch@3.0.0
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => glob@5.0.15 => minimatch@3.0.0 => brace-expansion@1.1.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => glob@5.0.15 => minimatch@3.0.0 => brace-expansion@1.1.1 => concat-map@0.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => glob@5.0.15 => minimatch@3.0.0 => brace-expansion@1.1.1 => balanced-match@0.2.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => glob@5.0.15 => inflight@1.0.4
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => glob@5.0.15 => inflight@1.0.4 => wrappy@1.0.1
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => events@1.1.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => duplexer2@0.1.4
 // License: BSD-3-Clause
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => domain-browser@1.1.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => deps-sort@2.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => defined@1.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => randombytes@2.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => public-encrypt@4.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => public-encrypt@4.0.0 => parse-asn1@5.0.0
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => public-encrypt@4.0.0 => parse-asn1@5.0.0 => evp_bytestokey@1.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => public-encrypt@4.0.0 => parse-asn1@5.0.0 => browserify-aes@1.0.5
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => public-encrypt@4.0.0 => parse-asn1@5.0.0 => browserify-aes@1.0.5 => cipher-base@1.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => public-encrypt@4.0.0 => parse-asn1@5.0.0 => browserify-aes@1.0.5 => buffer-xor@1.0.3
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => public-encrypt@4.0.0 => parse-asn1@5.0.0 => asn1.js@4.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => public-encrypt@4.0.0 => parse-asn1@5.0.0 => asn1.js@4.0.0 => minimalistic-assert@1.0.0
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => public-encrypt@4.0.0 => browserify-rsa@4.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => public-encrypt@4.0.0 => bn.js@4.1.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => pbkdf2@3.0.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => diffie-hellman@5.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => diffie-hellman@5.0.0 => miller-rabin@4.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => diffie-hellman@5.0.0 => miller-rabin@4.0.0 => brorand@1.0.5
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => diffie-hellman@5.0.0 => bn.js@4.1.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => create-hmac@1.1.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => create-hash@1.1.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => create-hash@1.1.2 => sha.js@2.4.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => create-hash@1.1.2 => ripemd160@1.0.1
 // License: BSD-3-Clause
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => create-hash@1.1.2 => cipher-base@1.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => create-ecdh@4.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => create-ecdh@4.0.0 => elliptic@6.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => create-ecdh@4.0.0 => elliptic@6.0.2 => hash.js@1.0.3
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => create-ecdh@4.0.0 => elliptic@6.0.2 => brorand@1.0.5
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => create-ecdh@4.0.0 => bn.js@4.1.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => parse-asn1@5.0.0
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => parse-asn1@5.0.0 => evp_bytestokey@1.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => parse-asn1@5.0.0 => browserify-aes@1.0.5
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => parse-asn1@5.0.0 => browserify-aes@1.0.5 => cipher-base@1.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => parse-asn1@5.0.0 => browserify-aes@1.0.5 => buffer-xor@1.0.3
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => parse-asn1@5.0.0 => asn1.js@4.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => parse-asn1@5.0.0 => asn1.js@4.0.0 => minimalistic-assert@1.0.0
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => elliptic@6.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => elliptic@6.0.2 => hash.js@1.0.3
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => elliptic@6.0.2 => brorand@1.0.5
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => browserify-rsa@4.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-sign@4.0.0 => bn.js@4.1.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-cipher@1.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-cipher@1.0.0 => evp_bytestokey@1.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-cipher@1.0.0 => browserify-des@1.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-cipher@1.0.0 => browserify-des@1.0.0 => des.js@1.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-cipher@1.0.0 => browserify-des@1.0.0 => des.js@1.0.0 => minimalistic-assert@1.0.0
 // License: ISC
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-cipher@1.0.0 => browserify-des@1.0.0 => cipher-base@1.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-cipher@1.0.0 => browserify-aes@1.0.5
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-cipher@1.0.0 => browserify-aes@1.0.5 => cipher-base@1.0.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => crypto-browserify@3.11.0 => browserify-cipher@1.0.0 => browserify-aes@1.0.5 => buffer-xor@1.0.3
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => constants-browserify@1.0.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => console-browserify@1.1.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => console-browserify@1.1.0 => date-now@0.1.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => concat-stream@1.5.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => concat-stream@1.5.1 => typedarray@0.0.6
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => buffer@3.5.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => buffer@3.5.2 => is-array@1.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => buffer@3.5.2 => ieee754@1.1.6
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => buffer@3.5.2 => base64-js@0.0.8
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => browserify-zlib@0.1.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => browserify-zlib@0.1.4 => pako@0.2.8
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => browser-resolve@1.10.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => browser-pack@6.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => browser-pack@6.0.1 => umd@3.0.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => browser-pack@6.0.1 => combine-source-map@0.7.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => browser-pack@6.0.1 => combine-source-map@0.7.1 => source-map@0.4.2
 // License: BSD
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => browser-pack@6.0.1 => combine-source-map@0.7.1 => source-map@0.4.2 => amdefine@1.0.0
 // License: BSD-3-Clause AND MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => browser-pack@6.0.1 => combine-source-map@0.7.1 => lodash.memoize@3.0.4
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => browser-pack@6.0.1 => combine-source-map@0.7.1 => inline-source-map@0.6.1
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => browser-pack@6.0.1 => combine-source-map@0.7.1 => convert-source-map@1.1.2
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => assert@1.3.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => JSONStream@1.0.6
 // License: (MIT OR Apache-2.0)
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => JSONStream@1.0.6 => through@2.3.8
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => browserify@12.0.1 => JSONStream@1.0.6 => jsonparse@1.2.0
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => bluebird@2.3.11
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => async@0.2.10
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => argparse@1.0.6
 // License: MIT
-// 
+//
 // Module: mammoth@0.3.33 => argparse@1.0.6 => sprintf-js@1.0.3
 // License: BSD-3-Clause
-// 
+//
 (function(f){if(typeof exports==="object"&&typeof module!=="undefined"){module.exports=f()}else if(typeof define==="function"&&define.amd){define([],f)}else{var g;if(typeof window!=="undefined"){g=window}else if(typeof global!=="undefined"){g=global}else if(typeof self!=="undefined"){g=self}else{g=this}g.mammoth = f()}})(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 var promises = require("../../lib/promises");
 
@@ -728,7 +728,7 @@ function Files() {
     function read(uri) {
         return promises.reject(new Error("could not open external image: '" + uri + "'\ncannot open linked files from a web browser"));
     }
-    
+
     return {
         read: read
     };
@@ -823,21 +823,21 @@ function DocumentConverter(options) {
 
 function DocumentConversion(options) {
     var noteNumber = 1;
-    
+
     var noteReferences = [];
-    
+
     options = _.extend({ignoreEmptyParagraphs: true}, options);
     var idPrefix = options.idPrefix === undefined ?
         Math.floor(Math.random() * 1000000000000000) :
         options.idPrefix;
-    
+
     var defaultParagraphStyle = htmlPaths.topLevelElement("p");
-    
+
     var styleMap = options.styleMap || [];
-    
+
     function convertToHtml(document) {
         var messages = [];
-        
+
         return promises.nfcall(elementToHtml, document, messages).then(function(html) {
             var writer = writers.writer({
                 prettyPrint: options.prettyPrint,
@@ -847,7 +847,7 @@ function DocumentConversion(options) {
             return new results.Result(writer.asString(), messages);
         });
     }
-    
+
     function convertElements(elements, messages, callback) {
         async.mapSeries(elements, function(element, callback) {
             return elementToHtml(element, messages, callback);
@@ -862,10 +862,10 @@ function DocumentConversion(options) {
             callback();
         }
     }
-    
+
     function convertParagraph(element, messages, callback) {
         var style = styleForParagraph(element, messages);
-        
+
         setImmediate(function() {
             convertElements(element.children, messages, function(error, children) {
                 if (!options.ignoreEmptyParagraphs) {
@@ -875,10 +875,10 @@ function DocumentConversion(options) {
             });
         });
     }
-    
+
     function styleForParagraph(element, messages) {
         var style = findStyle(element);
-        
+
         if (style) {
             return style.to;
         } else {
@@ -888,7 +888,7 @@ function DocumentConversion(options) {
             return defaultParagraphStyle;
         }
     }
-    
+
     function convertRun(run, messages, callback) {
         if (run.styleId) {
             var style = findStyle(run);
@@ -922,15 +922,15 @@ function DocumentConversion(options) {
             callback(null, result);
         });
     }
-    
+
     function wrapInNonFreshElement(node, tagName) {
         return Html.nonFreshElement(tagName, {}, [node]);
     }
-    
+
     function convertUnderline(runHtml) {
         return (options.convertUnderline || defaultConvertUnderline)(runHtml);
     }
-    
+
     function convertRunProperty(result, elementType, defaultTagName) {
         var style = findStyle({type: elementType});
         if (style) {
@@ -939,7 +939,7 @@ function DocumentConversion(options) {
             return wrapInNonFreshElement(result, defaultTagName);
         }
     }
-    
+
     function defaultConvertUnderline(runHtml) {
         var style = findStyle({type: "underline"});
         if (style) {
@@ -948,7 +948,7 @@ function DocumentConversion(options) {
             return runHtml;
         }
     }
-    
+
     function findStyle(element) {
         for (var i = 0; i < styleMap.length; i++) {
             if (styleMap[i].from.matches(element)) {
@@ -956,7 +956,7 @@ function DocumentConversion(options) {
             }
         }
     }
-    
+
     var defaultConvertImage = images.inline(function(element) {
         return element.read("base64").then(function(imageBuffer) {
             return {
@@ -964,7 +964,7 @@ function DocumentConversion(options) {
             };
         });
     });
-    
+
     function recoveringConvertImage(convertImage) {
         return function(image, messages, callback) {
             convertImage(image, messages, function(error, result) {
@@ -981,27 +981,27 @@ function DocumentConversion(options) {
     function noteHtmlId(note) {
         return htmlId(note.noteType + "-" + note.noteId);
     }
-    
+
     function noteRefHtmlId(note) {
         return htmlId(note.noteType + "-ref-" + note.noteId);
     }
-    
+
     function htmlId(suffix) {
         return idPrefix + "-" + suffix;
     }
-    
+
     function convertTable(element, messages, callback) {
         wrapChildrenInFreshElement(element, "table", messages, callback);
     }
-    
+
     function convertTableRow(element, messages, callback) {
         wrapChildrenInFreshElement(element, "tr", messages, callback);
     }
-    
+
     function convertTableCell(element, messages, callback) {
         wrapChildrenInFreshElement(element, "td", messages, callback);
     }
-    
+
     function wrapChildrenInFreshElement(element, wrapElementName, messages, callback) {
         convertElements(element.children, messages, function(error, children) {
             callback(null, Html.freshElement(wrapElementName, {}, [
@@ -1045,7 +1045,7 @@ function DocumentConversion(options) {
         },
         "noteReference": function(element, messages, callback) {
             noteReferences.push(element);
-            
+
             callback(null, Html.freshElement("sup", {}, [
                 Html.freshElement("a", {
                     href: "#" + noteHtmlId(element),
@@ -1057,11 +1057,11 @@ function DocumentConversion(options) {
             convertElements(element.body, messages, function(error, children) {
                 callback(null, Html.freshElement("li", {id: noteHtmlId(element)}, [
                     Html.fragment(children),
-                    
+
                     Html.elementWithTag(htmlPaths.element("p", {}, {fresh: false}), [
                         Html.text(" "),
                         Html.freshElement("a", {href: "#" + noteRefHtmlId(element)}, [Html.text("↑")]),
-                        
+
                     ])
                 ]));
             });
@@ -1301,37 +1301,37 @@ function BodyReader(options) {
         }
         return emptyResult();
     }
-    
+
     function readRunProperties(element) {
         var properties = {
             type: "runProperties"
         };
-        
+
         var verticalAlignmentElement = element.first("w:vertAlign");
         if (verticalAlignmentElement) {
             properties.verticalAlignment = verticalAlignmentElement.attributes["w:val"];
         }
-        
+
         properties.isBold = !!element.first("w:b");
         properties.isUnderline = !!element.first("w:u");
         properties.isItalic = !!element.first("w:i");
         properties.isStrikethrough = !!element.first("w:strike");
-        
+
         return readRunStyle(element).map(function(style) {
             properties.styleId = style.styleId;
             properties.styleName = style.name;
             return properties;
         });
     }
-    
+
     function readParagraphStyle(element) {
         return readStyle(element, "w:pStyle", "Paragraph", styles.findParagraphStyleById);
     }
-    
+
     function readRunStyle(element) {
         return readStyle(element, "w:rStyle", "Run", styles.findCharacterStyleById);
     }
-    
+
     function readStyle(element, styleTagName, styleType, findStyleById) {
         var messages = [];
         var styleElement = element.first(styleTagName);
@@ -1350,7 +1350,7 @@ function BodyReader(options) {
         }
         return elementResultWithMessages({styleId: styleId, name: name}, messages);
     }
-    
+
     function noteReferenceReader(noteType) {
         return function(element) {
             var noteId = element.attributes["w:id"];
@@ -1360,11 +1360,11 @@ function BodyReader(options) {
             }));
         };
     }
-    
+
     function readChildElements(element) {
         return readXmlElements(element.children);
     }
-    
+
     var xmlElementReaders = {
         "w:p": function(element) {
             return readXmlElements(element.children)
@@ -1381,13 +1381,13 @@ function BodyReader(options) {
             var properties = {
                 type: "paragraphProperties"
             };
-            
+
             var alignElement = element.first("w:jc");
             if (alignElement) {
                 properties.alignment = alignElement.attributes["w:val"];
             }
             properties.numbering = readNumberingProperties(element.firstOrEmpty("w:numPr"));
-            
+
             return readParagraphStyle(element).map(function(style) {
                 properties.styleId = style.styleId;
                 properties.styleName = style.name;
@@ -1398,7 +1398,7 @@ function BodyReader(options) {
             return readXmlElements(element.children)
                 .map(function(children) {
                     var properties = _.find(children, isRunProperties);
-                    
+
                     return new documents.Run(
                         children.filter(negate(isRunProperties)),
                         properties
@@ -1453,7 +1453,7 @@ function BodyReader(options) {
                 return elementResult(new documents.BookmarkStart({name: name}));
             }
         },
-        
+
         "mc:AlternateContent": function(element) {
             return readChildElements(element.first("mc:Fallback"));
         },
@@ -1495,15 +1495,15 @@ function BodyReader(options) {
             .getElementsByTagName("pic:pic")
             .getElementsByTagName("pic:blipFill")
             .getElementsByTagName("a:blip");
-        
+
         return combineResults(blips.map(readBlip.bind(null, element)));
     }
-    
+
     function readBlip(element, blip) {
         var altText = element.first("wp:docPr").attributes.descr;
         return readImage(findBlipImageFile(blip), altText);
     }
-    
+
     function findBlipImageFile(blip) {
         var embedRelationshipId = blip.attributes["r:embed"];
         var linkRelationshipid = blip.attributes["r:link"];
@@ -1517,13 +1517,13 @@ function BodyReader(options) {
             };
         }
     }
-    
+
     function readImageData(element) {
         return readImage(
             findEmbeddedImageFile(element.attributes["r:id"]),
             element.attributes["o:title"]);
     }
-    
+
     function findEmbeddedImageFile(relationshipId) {
         var path = joinZipPath("word", relationships[relationshipId].target);
         return {
@@ -1531,10 +1531,10 @@ function BodyReader(options) {
             read: docxFile.read.bind(docxFile, path)
         };
     }
-    
+
     function readImage(imageFile, altText) {
         var contentType = contentTypes.findContentType(imageFile.path);
-        
+
         var image = documents.Image({
             readImage: imageFile.read,
             altText: altText,
@@ -1544,13 +1544,13 @@ function BodyReader(options) {
             [] : warning("Image of type " + contentType + " is unlikely to display in web browsers");
         return elementResultWithMessages(image, warnings);
     }
-    
+
     function undefinedStyleWarning(type, styleId) {
         return warning(
             type + " style with ID " + styleId + " was referenced but not defined in the document");
     }
 }
-    
+
 var supportedImageTypes = {
     "image/png": true,
     "image/gif": true,
@@ -1685,7 +1685,7 @@ exports.defaultContentTypes = contentTypes({}, {});
 function readContentTypesFromXml(xml) {
     var extensionDefaults = {};
     var overrides = {};
-    
+
     xml.root.children.forEach(function(child) {
         if (child.name === "content-types:Default") {
             extensionDefaults[child.attributes.Extension] = child.attributes.ContentType;
@@ -1723,7 +1723,7 @@ function contentTypes(overrides, extensionDefaults) {
             }
         }
     };
-    
+
 }
 
 },{}],8:[function(require,module,exports){
@@ -1735,17 +1735,17 @@ var Result = require("../results").Result;
 
 function DocumentXmlReader(options) {
     var bodyReader = options.bodyReader;
-    
+
     function convertXmlToDocument(documentXml) {
         var body = documentXml.root.first("w:body");
-        
+
         var result = bodyReader.readXmlElements(body.children)
             .map(function(children) {
                 return new documents.Document(children, {notes: options.notes});
             });
         return new Result(result.value, result.messages);
     }
-    
+
     return {
         convertXmlToDocument: convertXmlToDocument
     };
@@ -1811,7 +1811,7 @@ function read(docxFile, input) {
                     bodyReader: bodyReader,
                     notes: notes,
                 });
-                return reader.convertXmlToDocument(xml); 
+                return reader.convertXmlToDocument(xml);
             });
         });
     });
@@ -1832,7 +1832,7 @@ function readXmlFileWithBody(name, options, func) {
         readElement: relationshipsReader.readRelationships,
         defaultValue: {}
     });
-    
+
     return readRelationshipsFromZipFile(options.docxFile).then(function(relationships) {
         var bodyReader = new BodyReader({
             relationships: relationships,
@@ -1893,7 +1893,7 @@ function createReader(noteType, bodyReader) {
                 return documents.Note({noteType: noteType, noteId: id, body: body});
             });
     }
-    
+
     return readNotesXml;
 }
 
@@ -2065,7 +2065,7 @@ function updateRelationships(docxFile) {
                 "Type": schema,
                 "Target": styleMapAbsolutePath
             });
-            
+
             var namespaces = {"": relationshipsUri};
             return docxFile.write(path, xml.writeString(relationshipsContainer, namespaces));
         });
@@ -2128,12 +2128,12 @@ function Styles(paragraphStyles, characterStyles) {
 function readStylesXml(xml) {
     var paragraphStyles = {};
     var characterStyles = {};
-    
+
     var styles = {
         "paragraph": paragraphStyles,
         "character": characterStyles
     };
-    
+
     xml.root.getElementsByTagName("w:style").forEach(function(styleElement) {
         var style = readStyleElement(styleElement);
         var styleSet = styles[style.type];
@@ -2141,7 +2141,7 @@ function readStylesXml(xml) {
             styleSet[style.styleId] = style;
         }
     });
-    
+
     return new Styles(paragraphStyles, characterStyles);
 }
 
@@ -2193,7 +2193,7 @@ function Element(tagName, attributes, options) {
     } else {
         tagNames[tagName] = true;
     }
-    
+
     this.tagName = tagName;
     this.tagNames = tagNames;
     this.attributes = attributes || {};
@@ -2242,7 +2242,7 @@ function elementWithTag(tag, children) {
         appendChild: appendChild
     };
 }
-    
+
 function appendChild(child) {
     this.children.push(child);
     this.isEmpty = this.isEmpty && child.isEmpty;
@@ -2374,7 +2374,7 @@ function identity(value) {
 
 function collapseNodes(nodes) {
     var children = [];
-    
+
     nodes.map(collapse).forEach(function(child) {
         appendChild(children, child, children.push.bind(children));
     });
@@ -2471,7 +2471,7 @@ function convertToMarkdown(input, options) {
 
 function convert(input, options) {
     options = Object.create(options || {});
-    
+
     return unzip.openZip(input)
         .tap(function(docxFile) {
             if (!options.styleMap) {
@@ -2502,7 +2502,7 @@ function convertDocumentToHtml(documentResult, options) {
     var styleMapResult = parseStyleMap(options.styleMap);
     parsedOptions.styleMap = styleMapResult.value;
     var documentConverter = new DocumentConverter(parsedOptions);
-    
+
     return documentResult.flatMapThen(function(document) {
         return styleMapResult.flatMapThen(function(styleMap) {
             return documentConverter.convertToHtml(document);
@@ -2575,20 +2575,20 @@ var standardOptions = exports._standardOptions = {
         "p[style-name='heading 3'] => h3:fresh",
         "p[style-name='heading 4'] => h4:fresh",
         "p[style-name='heading 4'] => h4:fresh",
-        
+
         "r[style-name='Strong'] => strong",
-        
+
         "p[style-name='footnote text'] => p",
         "r[style-name='footnote reference'] =>",
         "p[style-name='endnote text'] => p",
         "r[style-name='endnote reference'] =>",
-        
+
         // LibreOffice
         "p[style-name='Footnote'] => p",
         "r[style-name='Footnote anchor'] =>",
         "p[style-name='Endnote'] => p",
         "r[style-name='Endnote anchor'] =>",
-        
+
         "p:unordered-list(1) => ul > li:fresh",
         "p:unordered-list(2) => ul|ol > li > ul > li:fresh",
         "p:unordered-list(3) => ul|ol > li > ul|ol > li > ul > li:fresh",
@@ -2599,11 +2599,11 @@ var standardOptions = exports._standardOptions = {
         "p:ordered-list(3) => ul|ol > li > ul|ol > li > ol > li:fresh",
         "p:ordered-list(4) => ul|ol > li > ul|ol > li > ul|ol > li > ol > li:fresh",
         "p:ordered-list(5) => ul|ol > li > ul|ol > li > ul|ol > li > ul|ol > li > ol > li:fresh",
-        
+
         "r[style-name='Hyperlink'] =>",
-        
+
         "p[style-name='Normal'] => p:fresh"
-    
+
     ],
     transformDocument: identity,
     includeDefaultStyleMap: true
@@ -2613,9 +2613,9 @@ function readOptions(options) {
     options = options || {};
     var fullOptions = {};
     _.extend(fullOptions, standardOptions, options);
-    
+
     fullOptions.styleMap = readStyleMap(options.styleMap, fullOptions);
-    
+
     return fullOptions;
 }
 
@@ -2778,7 +2778,7 @@ function readDocumentMatcher(string) {
 
 function documentMatcherRule() {
     var sequence = lop.rules.sequence;
-    
+
     var identifierToConstant = function(identifier, constant) {
         return lop.rules.then(
             lop.rules.token("identifier", identifier),
@@ -2787,29 +2787,29 @@ function documentMatcherRule() {
             }
         );
     };
-    
+
     var paragraphRule = identifierToConstant("p", documentMatchers.paragraph);
     var runRule = identifierToConstant("r", documentMatchers.run);
-    
+
     var elementTypeRule = lop.rules.firstOf("p or r",
         paragraphRule,
         runRule
     );
-    
+
     var styleIdRule = lop.rules.then(
         classRule,
         function(styleId) {
             return {styleId: styleId};
         }
     );
-    
+
     var stringRule = lop.rules.then(
         lop.rules.tokenOfType("string"),
         function(value) {
             return value;
         }
     );
-    
+
     var styleNameRule = lop.rules.then(
         lop.rules.sequence(
             lop.rules.tokenOfType("open-square-bracket"),
@@ -2822,8 +2822,8 @@ function documentMatcherRule() {
             return {styleName: styleName};
         }
     );
-    
-    
+
+
     var listTypeRule = lop.rules.firstOf("list type",
         identifierToConstant("ordered-list", {isOrdered: true}),
         identifierToConstant("unordered-list", {isOrdered: false})
@@ -2849,7 +2849,7 @@ function documentMatcherRule() {
         listRule
     );
     var matcherSuffixes = lop.rules.zeroOrMore(matcherSuffix);
-    
+
     var paragraphOrRun = sequence(
         sequence.capture(elementTypeRule),
         sequence.capture(matcherSuffixes)
@@ -2860,13 +2860,13 @@ function documentMatcherRule() {
         });
         return createMatcher(matcherOptions);
     });
-    
+
     var bold = identifierToConstant("b", documentMatchers.bold);
     var italic = identifierToConstant("i", documentMatchers.italic);
     var underline = identifierToConstant("u", documentMatchers.underline);
     var strikethrough = identifierToConstant("strike", documentMatchers.strikethrough);
-    
-    return lop.rules.firstOf("element type", 
+
+    return lop.rules.firstOf("element type",
         paragraphOrRun,
         bold,
         italic,
@@ -2893,12 +2893,12 @@ function htmlPathRule() {
             }).valueOrElse(false);
        }
     );
-    
+
     var tagNamesRule = lop.rules.oneOrMoreWithSeparator(
         identifierRule,
         lop.rules.tokenOfType("choice")
     );
-    
+
     var styleElementRule = lop.rules.sequence(
         capture(tagNamesRule),
         capture(lop.rules.zeroOrMore(classRule)),
@@ -2914,7 +2914,7 @@ function htmlPathRule() {
         }
         return htmlPaths.element(tagName, attributes, options);
     });
-    
+
     return lop.rules.then(
         lop.rules.zeroOrMoreWithSeparator(
             styleElementRule,
@@ -2927,10 +2927,10 @@ function htmlPathRule() {
         htmlPaths.elements
     );
 }
-    
+
 var identifierRule = lop.rules.tokenOfType("identifier");
 var integerRule = lop.rules.tokenOfType("integer");
-    
+
 var classRule = lop.rules.sequence(
     lop.rules.tokenOfType("dot"),
     lop.rules.sequence.capture(identifierRule)
@@ -3040,9 +3040,9 @@ function prettyWriter() {
     var stack = [];
     var start = true;
     var inText = false;
-    
+
     var writer = simpleWriter();
-    
+
     function open(tagName, attributes) {
         if (indentedElements[tagName]) {
             indent();
@@ -3054,7 +3054,7 @@ function prettyWriter() {
         }
         start = false;
     }
-    
+
     function close(tagName) {
         if (indentedElements[tagName]) {
             indentationLevel--;
@@ -3063,33 +3063,33 @@ function prettyWriter() {
         stack.pop();
         writer.close(tagName);
     }
-    
+
     function text(value) {
         startText();
         writer.text(value.replace("\n", "\n" + indentation));
     }
-    
+
     function selfClosing(tagName, attributes) {
         indent();
         writer.selfClosing(tagName, attributes);
     }
-    
+
     function append(html) {
         startText();
         writer.append(html.replace("\n", "\n" + indentation));
     }
-    
+
     function insideIndentedElement() {
         return stack.length === 0 || indentedElements[stack[stack.length - 1]];
     }
-    
+
     function startText() {
         if (!inText) {
             indent();
             inText = true;
         }
     }
-    
+
     function indent() {
         inText = false;
         if (!start && insideIndentedElement()) {
@@ -3099,7 +3099,7 @@ function prettyWriter() {
             }
         }
     }
-    
+
     return {
         asString: writer.asString,
         open: open,
@@ -3113,39 +3113,39 @@ function prettyWriter() {
 
 function simpleWriter() {
     var fragments = [];
-    
+
     function open(tagName, attributes) {
         var attributeString = generateAttributeString(attributes);
         fragments.push(util.format("<%s%s>", tagName, attributeString));
     }
-    
+
     function close(tagName) {
         fragments.push(util.format("</%s>", tagName));
     }
-    
+
     function selfClosing(tagName, attributes) {
         var attributeString = generateAttributeString(attributes);
         fragments.push(util.format("<%s%s />", tagName, attributeString));
     }
-    
+
     function generateAttributeString(attributes) {
         return _.map(attributes, function(value, key) {
             return util.format(' %s="%s"', key, escapeHtmlAttribute(value));
         }).join("");
     }
-    
+
     function text(value) {
         fragments.push(escapeHtmlText(value));
     }
-    
+
     function append(html) {
         fragments.push(html);
     }
-    
+
     function asString() {
         return fragments.join("");
     }
-    
+
     return {
         asString: asString,
         open: open,
@@ -3242,10 +3242,10 @@ function markdownListItem(attributes, list, listItem) {
     list = list || {indent: 0, isOrdered: false, count: 0};
     list.count++;
     listItem.hasClosed = false;
-    
+
     var bullet = list.isOrdered ? list.count + "." : "-";
     var start = repeatString("\t", list.indent) + bullet + " ";
-        
+
     return {
         start: start,
         end: function() {
@@ -3284,18 +3284,18 @@ function markdownWriter() {
     var elementStack = [];
     var list = null;
     var listItem = {};
-    
+
     function open(tagName, attributes) {
         attributes = attributes || {};
-        
+
         var createElement = htmlToMarkdown[tagName] || function() { return {}; };
         var element = createElement(attributes, list, listItem);
         elementStack.push({end: element.end, list: list});
-        
+
         if (element.list) {
             list = element.list;
         }
-        
+
         var anchorBeforeStart = element.anchorPosition === "before";
         if (anchorBeforeStart) {
             writeAnchor(attributes);
@@ -3306,33 +3306,33 @@ function markdownWriter() {
             writeAnchor(attributes);
         }
     }
-    
+
     function writeAnchor(attributes) {
         if (attributes.id) {
             fragments.push('<a id="' + attributes.id + '"></a>');
         }
     }
-    
+
     function close(tagName) {
         var element = elementStack.pop();
         list = element.list;
         var end = _.isFunction(element.end) ? element.end() : element.end;
         fragments.push(end || "");
     }
-    
+
     function selfClosing(tagName, attributes) {
         open(tagName, attributes);
         close(tagName);
     }
-    
+
     function text(value) {
         fragments.push(escapeMarkdown(value));
     }
-    
+
     function append(html) {
         fragments.push(html);
     }
-    
+
     function asString() {
         return fragments.join("");
     }
@@ -3447,27 +3447,27 @@ exports.readString = readString;
 
 function readString(xmlString, namespaceMap) {
     namespaceMap = namespaceMap || {};
-    
+
     var finished = false;
     var parser = sax.parser(true, {xmlns: true, position: false});
-    
+
     var rootElement = {children: []};
     var currentElement = rootElement;
     var stack = [];
-    
+
     var deferred = promises.defer();
-    
+
     parser.onopentag = function(node) {
         var attributes = mapObject(node.attributes, function(attribute) {
             return attribute.value;
         }, mapName);
-        
+
         var element = new Element(mapName(node), attributes);
         currentElement.children.push(element);
         stack.push(currentElement);
         currentElement = element;
     };
-    
+
     function mapName(node) {
         if (node.uri) {
             var mappedPrefix = namespaceMap[node.uri];
@@ -3482,17 +3482,17 @@ function readString(xmlString, namespaceMap) {
             return node.local;
         }
     }
-    
+
     parser.onclosetag = function(node) {
         currentElement = stack.pop();
     };
-    
+
     parser.ontext = function(text) {
         if (currentElement !== rootElement) {
             currentElement.children.push(nodes.text(text));
         }
     };
-    
+
     parser.onend = function() {
         if (!finished) {
             finished = true;
@@ -3501,16 +3501,16 @@ function readString(xmlString, namespaceMap) {
             });
         }
     };
-    
+
     parser.onerror = function(error) {
         if (!finished) {
             finished = true;
             deferred.reject(error);
         }
     };
-    
+
     parser.write(xmlString).close();
-    
+
     return deferred.promise;
 }
 
@@ -3532,7 +3532,7 @@ exports.writeString = writeString;
 
 function writeString(root, namespaces) {
     var uriToPrefix = _.invert(namespaces);
-    
+
     var nodeWriters = {
         element: writeElement,
         text: writeTextNode
@@ -3548,7 +3548,7 @@ function writeString(root, namespaces) {
             writeNode(elementBuilder, child);
         });
     }
-    
+
     function mapElementName(name) {
         var longFormMatch = /^\{(.*)\}(.*)$/.exec(name);
         if (longFormMatch) {
@@ -3558,7 +3558,7 @@ function writeString(root, namespaces) {
             return name;
         }
     }
-    
+
     function writeDocument(root) {
         var builder = xmlbuilder
             .create(mapElementName(root.name), {
@@ -3566,12 +3566,12 @@ function writeString(root, namespaces) {
                 encoding: 'UTF-8',
                 standalone: true
             });
-        
+
         _.forEach(namespaces, function(uri, prefix) {
             var key = "xmlns" + (prefix === "" ? "" : ":" + prefix);
             builder.attribute(key, uri);
         });
-        
+
         root.children.forEach(function(child) {
             writeNode(builder, child);
         });
@@ -3598,7 +3598,7 @@ function openArrayBuffer(arrayBuffer) {
     function exists(name) {
         return zipFile.file(name) !== null;
     }
-    
+
     function read(name, encoding) {
         var array = zipFile.file(name).asUint8Array();
         var buffer = new Buffer(array);
@@ -3608,15 +3608,15 @@ function openArrayBuffer(arrayBuffer) {
             return promises.when(buffer);
         }
     }
-    
+
     function write(name, contents) {
         zipFile.file(name, contents);
     }
-    
+
     function toBuffer() {
         return zipFile.generate({type: "nodebuffer"});
     }
-    
+
     return {
         exists: exists,
         read: read,
@@ -4592,19 +4592,19 @@ function openArrayBuffer(arrayBuffer) {
 },{"_process":82}],37:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -4612,7 +4612,7 @@ function openArrayBuffer(arrayBuffer) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise) {
@@ -4643,19 +4643,19 @@ Promise.prototype.any = function Promise$any() {
 (function (process){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -4663,7 +4663,7 @@ Promise.prototype.any = function Promise$any() {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 var schedule = require("./schedule.js");
@@ -4759,19 +4759,19 @@ module.exports = new Async();
 },{"./queue.js":60,"./schedule.js":63,"./util.js":70,"_process":82}],39:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -4779,7 +4779,7 @@ module.exports = new Async();
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 var cr = Object.create;
@@ -4882,19 +4882,19 @@ Promise.prototype.get = function Promise$get(propertyName) {
 },{"./util.js":70}],40:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -4902,7 +4902,7 @@ Promise.prototype.get = function Promise$get(propertyName) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, INTERNAL) {
@@ -4962,19 +4962,19 @@ function Promise$fork(didFulfill, didReject, didProgress) {
 },{"./async.js":38,"./errors.js":45}],41:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -4982,7 +4982,7 @@ function Promise$fork(didFulfill, didReject, didProgress) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function() {
@@ -5208,19 +5208,19 @@ return CapturedTrace;
 },{"./es5.js":47,"./util.js":70}],42:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -5228,7 +5228,7 @@ return CapturedTrace;
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(NEXT_FILTER) {
@@ -5306,19 +5306,19 @@ return CatchFilter;
 },{"./errors.js":45,"./es5.js":47,"./util.js":70}],43:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -5326,7 +5326,7 @@ return CatchFilter;
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 var util = require("./util.js");
@@ -5388,19 +5388,19 @@ function Promise$thenThrow(reason) {
 },{"./util.js":70}],44:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -5408,7 +5408,7 @@ function Promise$thenThrow(reason) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, INTERNAL) {
@@ -5426,19 +5426,19 @@ Promise.each = function Promise$Each(promises, fn) {
 },{}],45:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -5446,7 +5446,7 @@ Promise.each = function Promise$Each(promises, fn) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 var Objectfreeze = require("./es5.js").freeze;
@@ -5575,19 +5575,19 @@ module.exports = {
 },{"./es5.js":47,"./util.js":70}],46:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -5595,7 +5595,7 @@ module.exports = {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise) {
@@ -5617,19 +5617,19 @@ return apiRejection;
 },{"./errors.js":45}],47:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -5637,7 +5637,7 @@ return apiRejection;
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 var isES5 = (function(){
     "use strict";
@@ -5708,19 +5708,19 @@ if (isES5) {
 },{}],48:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -5728,7 +5728,7 @@ if (isES5) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, INTERNAL) {
@@ -5746,19 +5746,19 @@ Promise.filter = function Promise$Filter(promises, fn, options) {
 },{}],49:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -5766,7 +5766,7 @@ Promise.filter = function Promise$Filter(promises, fn, options) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, NEXT_FILTER, cast) {
@@ -5870,19 +5870,19 @@ Promise.prototype.tap = function Promise$tap(handler) {
 },{"./util.js":70}],50:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -5890,7 +5890,7 @@ Promise.prototype.tap = function Promise$tap(handler) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, apiRejection, INTERNAL, cast) {
@@ -6025,19 +6025,19 @@ Promise.spawn = function Promise$Spawn(generatorFunction) {
 },{"./errors.js":45,"./util.js":70}],51:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -6045,7 +6045,7 @@ Promise.spawn = function Promise$Spawn(generatorFunction) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports =
@@ -6151,19 +6151,19 @@ Promise.join = function Promise$Join() {
 },{"./util.js":70}],52:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -6171,7 +6171,7 @@ Promise.join = function Promise$Join() {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, PromiseArray, apiRejection, cast, INTERNAL) {
@@ -6304,19 +6304,19 @@ Promise.map = function Promise$Map(promises, fn, options, _filter) {
 },{"./util.js":70}],53:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -6324,7 +6324,7 @@ Promise.map = function Promise$Map(promises, fn, options, _filter) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise) {
@@ -6384,19 +6384,19 @@ Promise.prototype.nodeify = function Promise$nodeify(nodeback, options) {
 },{"./async.js":38,"./util.js":70}],54:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -6404,7 +6404,7 @@ Promise.prototype.nodeify = function Promise$nodeify(nodeback, options) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, PromiseArray) {
@@ -6501,19 +6501,19 @@ function Promise$_progressUnchecked(progressValue) {
 (function (process){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -6521,7 +6521,7 @@ function Promise$_progressUnchecked(progressValue) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 var old;
@@ -7600,19 +7600,19 @@ return Promise;
 },{"./any.js":37,"./async.js":38,"./call_get.js":39,"./cancel.js":40,"./captured_trace.js":41,"./catch_filter.js":42,"./direct_resolve.js":43,"./each.js":44,"./errors.js":45,"./errors_api_rejection":46,"./filter.js":48,"./finally.js":49,"./generators.js":50,"./join.js":51,"./map.js":52,"./nodeify.js":53,"./progress.js":54,"./promise_array.js":56,"./promise_resolver.js":57,"./promisify.js":58,"./props.js":59,"./race.js":61,"./reduce.js":62,"./settle.js":64,"./some.js":65,"./synchronous_inspection.js":66,"./thenables.js":67,"./timers.js":68,"./using.js":69,"./util.js":70,"_process":82}],56:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -7620,7 +7620,7 @@ return Promise;
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, INTERNAL, cast) {
@@ -7806,19 +7806,19 @@ return PromiseArray;
 },{"./errors.js":45,"./util.js":70}],57:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -7826,7 +7826,7 @@ return PromiseArray;
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 var util = require("./util.js");
@@ -7968,19 +7968,19 @@ module.exports = PromiseResolver;
 },{"./async.js":38,"./errors.js":45,"./es5.js":47,"./util.js":70}],58:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -7988,7 +7988,7 @@ module.exports = PromiseResolver;
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, INTERNAL) {
@@ -8298,19 +8298,19 @@ Promise.promisifyAll = function Promise$PromisifyAll(target, options) {
 },{"./errors":45,"./promise_resolver.js":57,"./util.js":70}],59:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -8318,7 +8318,7 @@ Promise.promisifyAll = function Promise$PromisifyAll(target, options) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, PromiseArray, cast) {
@@ -8410,19 +8410,19 @@ Promise.props = function Promise$Props(promises) {
 },{"./errors_api_rejection":46,"./es5.js":47,"./util.js":70}],60:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -8430,7 +8430,7 @@ Promise.props = function Promise$Props(promises) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 function arrayCopy(src, srcIndex, dst, dstIndex, len) {
@@ -8529,19 +8529,19 @@ module.exports = Queue;
 },{}],61:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -8549,7 +8549,7 @@ module.exports = Queue;
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, INTERNAL, cast) {
@@ -8605,19 +8605,19 @@ Promise.prototype.race = function Promise$race() {
 },{"./errors_api_rejection.js":46,"./util.js":70}],62:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -8625,7 +8625,7 @@ Promise.prototype.race = function Promise$race() {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, PromiseArray, apiRejection, cast, INTERNAL) {
@@ -8791,19 +8791,19 @@ Promise.reduce = function Promise$Reduce(promises, fn, initialValue, _each) {
 (function (process){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -8811,7 +8811,7 @@ Promise.reduce = function Promise$Reduce(promises, fn, initialValue, _each) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 var schedule;
@@ -8857,19 +8857,19 @@ module.exports = schedule;
 },{"_process":82}],64:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -8877,7 +8877,7 @@ module.exports = schedule;
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports =
@@ -8928,19 +8928,19 @@ Promise.prototype.settle = function Promise$settle() {
 },{"./util.js":70}],65:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -8948,7 +8948,7 @@ Promise.prototype.settle = function Promise$settle() {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports =
@@ -9093,19 +9093,19 @@ Promise._SomePromiseArray = SomePromiseArray;
 },{"./errors.js":45,"./util.js":70}],66:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -9113,7 +9113,7 @@ Promise._SomePromiseArray = SomePromiseArray;
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise) {
@@ -9173,19 +9173,19 @@ Promise.PromiseInspection = PromiseInspection;
 },{}],67:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -9193,7 +9193,7 @@ Promise.PromiseInspection = PromiseInspection;
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function(Promise, INTERNAL) {
@@ -9310,19 +9310,19 @@ return Promise$_Cast;
 },{"./errors.js":45,"./util.js":70}],68:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -9330,7 +9330,7 @@ return Promise$_Cast;
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 var _setTimeout = function(fn, ms) {
@@ -9420,19 +9420,19 @@ Promise.prototype.timeout = function Promise$timeout(ms, message) {
 },{"./errors.js":45,"./errors_api_rejection":46,"./util.js":70}],69:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -9440,7 +9440,7 @@ Promise.prototype.timeout = function Promise$timeout(ms, message) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 module.exports = function (Promise, apiRejection, cast) {
@@ -9614,19 +9614,19 @@ module.exports = function (Promise, apiRejection, cast) {
 },{"./errors.js":45,"./util.js":70}],70:[function(require,module,exports){
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Petka Antonov
- * 
+ *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
  * copies of the Software, and to permit persons to whom the Software is
  * furnished to do so, subject to the following conditions:</p>
- * 
+ *
  * The above copyright notice and this permission notice shall be included in
  * all copies or substantial portions of the Software.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
  * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
@@ -9634,7 +9634,7 @@ module.exports = function (Promise, apiRejection, cast) {
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
- * 
+ *
  */
 "use strict";
 var es5 = require("./es5.js");
@@ -15744,22 +15744,22 @@ var equalTo = exports.equalTo = function(matchValue) {
 
 exports.isObject = function(object) {
     var matchers = valuesToMatchers(object);
-    
+
     return new Matcher({
         matchesWithDescription: function(value) {
             var expectedKeys = ownKeys(object);
             var hasPropertiesResult = exports.hasProperties(matchers).matchesWithDescription(value);
-            
+
             var unexpectedPropertyMismatches = ownKeys(value).filter(function(key) {
                 return expectedKeys.indexOf(key) === -1
             }).map(function(key) {
                 return "unexpected property: \"" + key + "\"";
             });
-            
-            var mismatchDescriptions = 
+
+            var mismatchDescriptions =
                 (hasPropertiesResult.matches ? [] : [hasPropertiesResult.description])
                 .concat(unexpectedPropertyMismatches);
-                
+
             if (mismatchDescriptions.length === 0) {
                 return {matches: true};
             } else {
@@ -15774,7 +15774,7 @@ exports.isObject = function(object) {
 
 exports.hasProperties = function(object) {
     var matchers = valuesToMatchers(object);
-    
+
     return new Matcher({
         matchesWithDescription: function(value) {
             var expectedKeys = ownKeys(object);
@@ -15800,7 +15800,7 @@ exports.hasProperties = function(object) {
                     return {matches: true};
                 }
             });
-            
+
             return combineMatchResults(propertyResults);
         },
         describeSelf: function() {
@@ -15827,7 +15827,7 @@ exports.isArray = function(expectedArray) {
                         return {matches: false, description: description};
                     }
                 });
-                
+
                 return combineMatchResults(elementResults);
             }
         },
@@ -15910,7 +15910,7 @@ var objectMap = function(obj, func) {
         }
     });
     return matchers;
-    
+
 };
 
 var valuesToMatchers = function(obj) {
@@ -25213,7 +25213,7 @@ StringSourceRange.prototype._position = function() {
     var nextNewLine = function() {
         return self._string.indexOf("\n", index);
     };
-    
+
     var lineNumber = 1;
     while (nextNewLine() !== -1 && nextNewLine() < this._startIndex) {
         index = nextNewLine() + 1;
@@ -25272,33 +25272,33 @@ exports.parser = function(name, prefixRules, infixRuleBuilders) {
         leftAssociative: leftAssociative,
         rightAssociative: rightAssociative
     };
-    
+
     var infixRules = new InfixRules(infixRuleBuilders.map(createInfixRule));
     var prefixRule = rules.firstOf(name, prefixRules);
-    
+
     function createInfixRule(infixRuleBuilder) {
         return {
             name: infixRuleBuilder.name,
             rule: lazyRule(infixRuleBuilder.ruleBuilder.bind(null, self))
         };
     }
-    
+
     function rule() {
         return createRule(infixRules);
     }
-    
+
     function leftAssociative(name) {
         return createRule(infixRules.untilExclusive(name));
     }
-    
+
     function rightAssociative(name) {
         return createRule(infixRules.untilInclusive(name));
     }
-    
+
     function createRule(infixRules) {
         return apply.bind(null, infixRules);
     }
-    
+
     function apply(infixRules, tokens) {
         var leftResult = prefixRule(tokens);
         if (leftResult.isSuccess()) {
@@ -25307,7 +25307,7 @@ exports.parser = function(name, prefixRules, infixRuleBuilders) {
             return leftResult;
         }
     }
-    
+
     return self;
 };
 
@@ -25315,17 +25315,17 @@ function InfixRules(infixRules) {
     function untilExclusive(name) {
         return new InfixRules(infixRules.slice(0, ruleNames().indexOf(name)));
     }
-    
+
     function untilInclusive(name) {
         return new InfixRules(infixRules.slice(0, ruleNames().indexOf(name) + 1));
     }
-    
+
     function ruleNames() {
         return infixRules.map(function(rule) {
             return rule.name;
         });
     }
-    
+
     function apply(leftResult) {
         var currentResult;
         var source;
@@ -25345,13 +25345,13 @@ function InfixRules(infixRules) {
             }
         }
     }
-    
+
     function applyToTokens(tokens) {
         return rules.firstOf("infix", infixRules.map(function(infix) {
             return infix.rule;
         }))(tokens);
     }
-    
+
     return {
         apply: apply,
         untilExclusive: untilExclusive,
@@ -25373,7 +25373,7 @@ exports.infix = function(name, ruleBuilder) {
             };
         });
     }
-    
+
     return {
         name: name,
         ruleBuilder: ruleBuilder,
@@ -25452,7 +25452,7 @@ LazyIterator.prototype.map = function(func) {
 
 LazyIterator.prototype.filter = function(condition) {
     var iterator = this._iterator;
-    
+
     var moved = false;
     var hasNext = false;
     var next;
@@ -25467,7 +25467,7 @@ LazyIterator.prototype.filter = function(condition) {
             hasNext = condition(next);
         }
     };
-    
+
     return new LazyIterator({
         hasNext: function() {
             moveIfNecessary();
@@ -25506,7 +25506,7 @@ exports.Parser = function(options) {
     var parseTokens = function(parser, tokens) {
         return parser(new TokenIterator(tokens));
     };
-    
+
     return {
         parseTokens: parseTokens
     };
@@ -25630,18 +25630,18 @@ function RegexTokeniser(rules) {
             regex: new RegExp(rule.regex.source, "g")
         };
     });
-    
+
     function tokenise(input, description) {
         var source = new StringSource(input, description);
         var index = 0;
         var tokens = [];
-    
+
         while (index < input.length) {
             var result = readNextToken(input, index, source);
             index = result.endIndex;
             tokens.push(result.token);
         }
-        
+
         tokens.push(endToken(input, source));
         return tokens;
     }
@@ -25651,7 +25651,7 @@ function RegexTokeniser(rules) {
             var regex = rules[i].regex;
             regex.lastIndex = startIndex;
             var result = regex.exec(string);
-            
+
             if (result) {
                 var endIndex = startIndex + result[0].length;
                 if (result.index === startIndex && endIndex > startIndex) {
@@ -25673,7 +25673,7 @@ function RegexTokeniser(rules) {
         );
         return {token: token, endIndex: endIndex};
     }
-    
+
     function endToken(input, source) {
         return new Token(
             "end",
@@ -25681,7 +25681,7 @@ function RegexTokeniser(rules) {
             source.range(input.length, input.length)
         );
     }
-    
+
     return {
         tokenise: tokenise
     }
@@ -25791,11 +25791,11 @@ exports.sequence = function() {
             }
         );
     };
-    
+
     function isCapturedRule(subRule) {
         return subRule.isCaptured;
     }
-    
+
     return rule;
 };
 
@@ -25942,7 +25942,7 @@ exports.leftAssociative = function(leftRule, rightRule, func) {
         });
     });
     var repeatedRule = exports.firstOf.apply(null, ["rules"].concat(rights));
-    
+
     return function(input) {
         var start = input;
         var leftResult = leftRule(input);
