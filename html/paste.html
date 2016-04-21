@@ -17,7 +17,9 @@
           {
             var f = c.getAsFile();
             var reader = new FileReader();
+              console.log("f", f)
             reader.onload = function(e) {
+              console.log("reader", reader)
               div.innerHTML += '<img src="' + e.target.result + '">';
             }
             reader.readAsDataURL(f);
