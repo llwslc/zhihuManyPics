@@ -83,3 +83,14 @@
         document.execCommand('Copy');
 
 })();
+
+
+// <div id="mock:g" class="zm-editable-editor-field-element editable" g_editable="true" role="textbox" contenteditable="true">
+//     <p><b>重大更新预警...</b></p>
+//     <p><img src="https://pic2.zhimg.com/da623a98152f4f0188745f64ad355a89_s.jpg"></p>
+//     <p><br></p>
+//     <p><br></p>
+// </div>
+
+
+// {"msg": ["https://pic2.zhimg.com/55f2995c756fb8c920c95c6b99d2ed30_b.png", 32, 38, "55f2995c756fb8c920c95c6b99d2ed30"], "code": 0}
