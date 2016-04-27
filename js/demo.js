@@ -42,6 +42,30 @@
     var imgx = new Image();
     imgx.src = 'data:image/png;base64,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';
 
+    function binaryToBlob(data) {
+        var bb = new BlobBuilder();
+        var arr = new Uint8Array(data.length);
+        for(var i = 0, l = data.length; i < l; i++) {
+            arr[i] = data.charCodeAt(i);
+        }
+        bb.append(arr.buffer);
+        return bb.getBlob();
+    };
+
+    function dataUrlToBlob(dataurl) {
+        // data:image/jpeg;base64,xxxxxx
+        var datas = dataurl.split(',', 2);
+        var blob = binaryToBlob(atob(datas[1]));
+        blob.fileType = datas[0].split(';')[0].split(':')[1];
+        blob.name = blob.fileName = 'pic.' + blob.fileType.split('/')[1];
+        return blob;
+    };
+
+    var xxx = dataUrlToBlob(imgx.src);
+    console.log(xxx)
+
+
+
         document.addEventListener('copy', function(e){
             console.log(123)
 
@@ -63,24 +87,60 @@
         // temp.remove()
 
 
-       // var img = document.createElement('img');
-       //  img.src = imgx.src;
-       //  document.body.appendChild(img);
-       //  var r = document.createRange();
-       //  r.setStartBefore(img);
-       //  r.setEndAfter(img);
-       //  r.selectNode(img);
-       //  var sel = window.getSelection();
-       //  sel.addRange(r);
-       //  document.execCommand('Copy');
+        // var img = document.createElement('img');
+        //  img.src = imgx.src;
+        //  document.body.appendChild(img);
+        //  var r = document.createRange();
+        //  r.setStartBefore(img);
+        //  r.setEndAfter(img);
+        //  r.selectNode(img);
+        //  var sel = window.getSelection();
+        //  sel.addRange(r);
+        //  document.execCommand('Copy');
 
 
 
-       var img = document.createElement('img');
-        img.src = imgx.src;
-        document.body.appendChild(img);
-       img.click();
-        document.execCommand('Copy');
+        // var img = document.createElement('img');
+        //  img.src = imgx.src;
+        //  document.body.appendChild(img);
+        // img.click();
+        //  document.execCommand('Copy');
+
+        var cL = function(b) {
+            var c = new window.FormData;
+            c.append("via", "xhr2");
+            c.append("upload_file", b);
+            var d;
+            d = window.$.ajaxSettings.xhr();
+            d.withCredentials = !0;
+                var f = window.$.ajax({
+                    url: "https://upload.zhihu.com/upload",
+                    data: c,
+                    processData: !1,
+                    contentType: !1,
+                    xhr: function() {
+                    return d
+                },
+                type: "POST"
+            }).done(function(a) {
+                "string" === window.$.type(a) && (a = JSON.parse(a));
+                if (1 === a.code) {
+                    console.log(a.msg)
+                }
+                else {
+                    var b = new window.Image;
+                    b.src = a.msg[0];
+                    b.setAttribute("originImgSrc", b.src.replace("_m.jpg", "_r.jpg"));
+                    b.setAttribute("data-rawWidth", a.msg[1]);
+                    b.setAttribute("data-rawHeight", a.msg[2]);
+                    f.zC.after(b)
+                }
+            }).fail(function() {
+                console.log("上传失败！\x3e_\x3c")
+            }).always(function() {
+                f.zC.remove()
+            });
+        }
 
 })();
 
