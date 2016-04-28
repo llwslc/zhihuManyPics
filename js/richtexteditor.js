@@ -1300,14 +1300,14 @@
                 b.setAttribute("originImgSrc", b.src.replace("_m.jpg", "_r.jpg"));
                 b.setAttribute("data-rawWidth", a.msg[1]);
                 b.setAttribute("data-rawHeight", a.msg[2]);
-                f.zC.after(b)
+                f.ZB.after(b)
             }
         }).fail(function() {
             z.W.message("上传失败！\x3e_\x3c")
         }).always(function() {
-            f.zC.remove()
+            f.ZB.remove()
         });
-        f.zC = aL(a)
+        f.ZB = aL(a)
     }
     ;
     var dL = function() {
