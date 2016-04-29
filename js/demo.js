@@ -166,15 +166,21 @@
         //console.log($(".zm-editable-editor-field-element.editable"))
 
         var executeScriptStr = "var edit = document.getElementsByClassName('zm-editable-editor-field-element editable')[0];";
+        executeScriptStr += "edit.focus();";
+        executeScriptStr += "var br = edit.childNodes[0];";
+        executeScriptStr += "if(br.nodeName == 'BR') { edit.removeChild(br); };";
         executeScriptStr += "var temp = document.createElement('p');";
         executeScriptStr += "temp.innerHTML = 213;";
         executeScriptStr += "edit.appendChild(temp);";
 
+console.log(executeScriptStr)
 
         chrome.tabs.executeScript(null,{code: executeScriptStr})
 
 })();
 
+
+// zm-editable-editor-field-wrap-active
 
 // https://upload.zhihu.com/upload
 
