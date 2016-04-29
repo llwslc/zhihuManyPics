@@ -85,8 +85,8 @@
 
             };
 
-    var xxx = baseToBlob(imgx.src);
-    console.log(xxx)
+    // var xxx = baseToBlob(imgx.src);
+    // console.log(xxx)
 
 
         //     var reader = new FileReader();
@@ -161,6 +161,17 @@
         // uploadFunc(xxx)
 
         // console.log(123)
+
+
+        //console.log($(".zm-editable-editor-field-element.editable"))
+
+        var executeScriptStr = "var edit = document.getElementsByClassName('zm-editable-editor-field-element editable')[0];";
+        executeScriptStr += "var temp = document.createElement('p');";
+        executeScriptStr += "temp.innerHTML = 213;";
+        executeScriptStr += "edit.appendChild(temp);";
+
+
+        chrome.tabs.executeScript(null,{code: executeScriptStr})
 
 })();
 
