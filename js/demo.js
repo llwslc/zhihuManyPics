@@ -44,46 +44,41 @@
 
 
     function baseToBlob(base64Data) {
-                var format = "image/png";
-                var base64 = base64Data;
-                var code = window.atob(base64.split(",")[1]);
-                var aBuffer = new window.ArrayBuffer(code.length);
-                var uBuffer = new window.Uint8Array(aBuffer);
-                for(var i = 0; i < code.length; i++){
-                    uBuffer[i] = code.charCodeAt(i) & 0xff ;
-                }
-                console.log(base64.length)
-                console.log(code.length)
-                console.info([aBuffer]);
-                console.info(uBuffer);
-                console.info(uBuffer.buffer);
-                console.info(uBuffer.buffer==aBuffer); //true
+        var format = "image/png";
+        var base64 = base64Data;
+        var code = window.atob(base64.split(",")[1]);
+        var aBuffer = new window.ArrayBuffer(code.length);
+        var uBuffer = new window.Uint8Array(aBuffer);
+        for(var i = 0; i < code.length; i++) {
+            uBuffer[i] = code.charCodeAt(i) & 0xff;
+        }
+        console.log(base64.length)
+        console.log(code.length)
+        console.info([aBuffer]);
+        console.info(uBuffer);
+        console.info(uBuffer.buffer);
+        console.info(uBuffer.buffer==aBuffer); //true
 
-                var blob=null;
-                try{
-                    blob = new Blob([uBuffer], {type : format});
-                }
-                catch(e){
-                    window.BlobBuilder = window.BlobBuilder ||
-                    window.WebKitBlobBuilder ||
-                    window.MozBlobBuilder ||
-                    window.MSBlobBuilder;
-                    if(e.name == 'TypeError' && window.BlobBuilder){
-                        var bb = new window.BlobBuilder();
-                        bb.append(uBuffer.buffer);
-                        blob = bb.getBlob("image/jpeg");
-
-                    }
-                    else if(e.name == "InvalidStateError"){
-                        blob = new Blob([aBuffer], {type : format});
-                    }
-                    else{
-
-                    }
-                }
-                return blob;
-
-            };
+        var blob = null;
+        try {
+            blob = new Blob([uBuffer], {type : format});
+        } catch(e) {
+            window.BlobBuilder = window.BlobBuilder ||
+            window.WebKitBlobBuilder ||
+            window.MozBlobBuilder ||
+            window.MSBlobBuilder;
+            if(e.name == 'TypeError' && window.BlobBuilder) {
+                var bb = new window.BlobBuilder();
+                bb.append(uBuffer.buffer);
+                blob = bb.getBlob("image/jpeg");
+            } else if(e.name == "InvalidStateError") {
+                blob = new Blob([aBuffer], {type : format});
+            } else {
+                // null
+            }
+        }
+        return blob;
+    };
 
     // var xxx = baseToBlob(imgx.src);
     // console.log(xxx)
@@ -165,17 +160,17 @@
 
         //console.log($(".zm-editable-editor-field-element.editable"))
 
-        var executeScriptStr = "var edit = document.getElementsByClassName('zm-editable-editor-field-element editable')[0];";
-        executeScriptStr += "edit.focus();";
-        executeScriptStr += "var br = edit.childNodes[0];";
-        executeScriptStr += "if(br.nodeName == 'BR') { edit.removeChild(br); };";
-        executeScriptStr += "var temp = document.createElement('p');";
-        executeScriptStr += "temp.innerHTML = 213;";
-        executeScriptStr += "edit.appendChild(temp);";
+        // var executeScriptStr = "var edit = document.getElementsByClassName('zm-editable-editor-field-element editable')[0];";
+        // executeScriptStr += "edit.focus();";
+        // executeScriptStr += "var br = edit.childNodes[0];";
+        // executeScriptStr += "if(br.nodeName == 'BR') { edit.removeChild(br); };";
+        // executeScriptStr += "var temp = document.createElement('p');";
+        // executeScriptStr += "temp.innerHTML = 213;";
+        // executeScriptStr += "edit.appendChild(temp);";
 
-console.log(executeScriptStr)
+        // chrome.tabs.executeScript(null,{code: executeScriptStr})
 
-        chrome.tabs.executeScript(null,{code: executeScriptStr})
+        chrome.tabs.getSelected(null, function(tab){console.log(tab.url);})
 
 })();
 

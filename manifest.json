@@ -8,5 +8,5 @@
         "default_icon": "img/icon.png",
         "default_popup": "html/popup.html"
    },
-   "permissions": [ "http://*.zhihu.com/", "https://*.zhihu.com/" ]
+   "permissions": [ "tabs", "http://*.zhihu.com/", "https://*.zhihu.com/" ]
 }
