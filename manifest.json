@@ -8,5 +8,14 @@
         "default_icon": "img/icon.png",
         "default_popup": "html/popup.html"
    },
-   "permissions": [ "tabs", "http://*.zhihu.com/", "https://*.zhihu.com/" ]
+   "converted_from_user_script": true,
+   "content_scripts": [ {
+      "exclude_globs": [  ],
+      "include_globs": [ "*" ],
+      "js": [ "js/content_scripts.js" ],
+      "matches": [ "http://www.zhihu.com/question/*", "https://www.zhihu.com/question/*" ],
+      "run_at": "document_end"
+   } ],
+   "permissions": [ "tabs", "http://*.zhihu.com/", "https://*.zhihu.com/" ],
+   "web_accessible_resources": [ "*.js" ]
 }
