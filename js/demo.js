@@ -1,10 +1,21 @@
 (function() {
+    chrome.tabs.getSelected(null, function(tab){
+        var urlReg = new RegExp("(http|https)://www.zhihu.com/question/[0-9]+")
+        if (!urlReg.test(tab.url)) {
+            alert("当前页面不是答题页面...");
+            window.close();
+        }
+    })
+
     document.getElementById("selectFileBtn")
         .addEventListener("change", handleFileSelect, false);
 
+    document.getElementById("xbt")
+        .addEventListener("click", function(e){chrome.tabs.executeScript(null, {file: "js/test.js"});}, false);
+
     function handleFileSelect(event) {
         readFileInputEventAsArrayBuffer(event, function(arrayBuffer) {
-            mammoth.convertToHtml({arrayBuffer: arrayBuffer}, {ignoreEmptyParagraphs: true})
+            mammoth.convertToHtml({arrayBuffer: arrayBuffer}, {ignoreEmptyParagraphs: false})
                 .then(displayResult)
                 .done(clearFileSelect);
         });
@@ -15,7 +26,18 @@
     }
 
     function displayResult(result) {
-        console.log(result.value)
+        //var pStr = escapeHtml(result.value);
+
+        var executeScriptStr = "var edit = document.getElementsByClassName('zm-editable-editor-field-element editable')[0];";
+        executeScriptStr += "edit.focus();";
+        executeScriptStr += "var br = edit.childNodes[0];";
+        executeScriptStr += "if(br.nodeName == 'BR') { edit.removeChild(br); };";
+        executeScriptStr += "var temp = document.createElement('p');";
+        executeScriptStr += "temp.innerHTML = 0;";
+        executeScriptStr += "edit.appendChild(temp);";
+        //executeScriptStr += `edit.innerHTML = '${pStr}';`;
+
+        chrome.tabs.executeScript(null,{code: executeScriptStr})
     }
 
     function readFileInputEventAsArrayBuffer(event, callback) {
@@ -32,10 +54,9 @@
 
     function escapeHtml(value) {
         return value
-            .replace(/&/g, '&amp;')
-            .replace(/"/g, '&quot;')
-            .replace(/</g, '&lt;')
-            .replace(/>/g, '&gt;');
+            .replace(new RegExp("<p></p>", "g"), "<p><br></p>")
+            .replace(new RegExp("(<strong>)([^\n]+)(</strong>)", "g"), "<b>$2</b>")
+            .replace(new RegExp(" alt=\"[^\n]+\" ", "g"), "");
     }
 
 
@@ -165,13 +186,11 @@
         // executeScriptStr += "var br = edit.childNodes[0];";
         // executeScriptStr += "if(br.nodeName == 'BR') { edit.removeChild(br); };";
         // executeScriptStr += "var temp = document.createElement('p');";
-        // executeScriptStr += "temp.innerHTML = 213;";
+        // executeScriptStr += "temp.innerHTML = 0;";
         // executeScriptStr += "edit.appendChild(temp);";
+        // executeScriptStr += "edit.innerHTML = '<p>正常</p><p><br></p><p><br></p><p><br></p><p><br></p><p><b>粗的</b></p><p><br></p><p>正常</p>';";
 
         // chrome.tabs.executeScript(null,{code: executeScriptStr})
-
-        chrome.tabs.getSelected(null, function(tab){console.log(tab.url);})
-
 })();
 
 
@@ -186,5 +205,15 @@
 //     <p><br></p>
 // </div>
 
+// word:
+// <p>正常</p>
+// <p></p>
+// <p></p>
+// <p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA5CAIAAAAJJrqAAAAABmJLR…GkwTpgI3Xv32iauTt4R9D4lWiKCrGDLyY+Ji8yn09p6v8Ah/PS0eeYe1AAAAAASUVORK5CYII=" alt="C:\Users\linux\Desktop\1.png" /></p>
+// <p></p>
+// <p></p>
+// <p><strong>粗的</strong></p>
+// <p></p>
+// <p>正常</p>
 
 //a= {"msg": ["https://pic2.zhimg.com/35d86ba3193209dce4024b69835c0327_b.png", 32, 38, "35d86ba3193209dce4024b69835c0327"], "code": 0}
