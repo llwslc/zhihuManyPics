@@ -1,21 +1,21 @@
 {
-   "name": "zhihuManyPics",
-   "description": "zhihu answer need too many pictures",
-   "manifest_version": 2,
-   "version": "0.0.1",
-   "icons": {"128": "img/icon.png"},
-   "browser_action": {
-        "default_icon": "img/icon.png",
-        "default_popup": "html/popup.html"
-   },
-   "converted_from_user_script": true,
-   "content_scripts": [ {
-      "exclude_globs": [  ],
-      "include_globs": [ "*" ],
-      "js": [ "js/content_scripts.js" ],
-      "matches": [ "http://www.zhihu.com/question/*", "https://www.zhihu.com/question/*" ],
-      "run_at": "document_end"
-   } ],
-   "permissions": [ "tabs", "http://*.zhihu.com/", "https://*.zhihu.com/" ],
-   "web_accessible_resources": [ "*.js" ]
+  "name": "zhihuManyPics",
+  "description": "zhihu answer need too many pictures",
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "icons": {"128": "img/icon.png"},
+  "browser_action": {
+    "default_icon": "img/icon.png",
+    "default_popup": "html/popup.html"
+  },
+  "converted_from_user_script": true,
+  "content_scripts": [ {
+    "exclude_globs": [  ],
+    "include_globs": [ "*" ],
+    "js": [ "js/content_scripts.js" ],
+    "matches": [ "http://www.zhihu.com/question/*", "https://www.zhihu.com/question/*" ],
+    "run_at": "document_end"
+  } ],
+  "permissions": [ "tabs", "clipboardRead", "http://*.zhihu.com/", "https://*.zhihu.com/" ],
+  "web_accessible_resources": [ "*.js" ]
 }

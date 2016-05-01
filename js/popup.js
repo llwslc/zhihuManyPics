@@ -1,4 +1,5 @@
 (function() {
+
     chrome.tabs.getSelected(null, function(tab){
         var urlReg = new RegExp("(http|https)://www.zhihu.com/question/[0-9]+")
         if (!urlReg.test(tab.url)) {
@@ -11,7 +12,14 @@
         .addEventListener("change", handleFileSelect, false);
 
     document.getElementById("xbt")
-        .addEventListener("click", function(e){chrome.tabs.executeScript(null, {file: "js/test.js"});}, false);
+        .addEventListener("click", function(e){
+
+    chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
+        chrome.tabs.sendMessage(tabs[0].id, {greeting: "hello"});
+            window.close();
+    });
+
+        }, false);
 
     function handleFileSelect(event) {
         readFileInputEventAsArrayBuffer(event, function(arrayBuffer) {
