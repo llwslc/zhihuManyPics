@@ -1,30 +1,65 @@
+function simulate(element, eventName) {
+    var options = extend(defaultOptions, arguments[2] || {});
+    var oEvent, eventType = null;
 
+    for (var name in eventMatchers) {
+        if (eventMatchers[name].test(eventName)) { eventType = name; break; }
+    }
 
+    if (!eventType)
+        throw new SyntaxError('Only HTMLEvents and MouseEvents interfaces are supported');
 
+    if (document.createEvent) {
+        oEvent = document.createEvent(eventType);
+        if (eventType == 'HTMLEvents') {
+            oEvent.initEvent(eventName, options.bubbles, options.cancelable);
+        } else {
+            oEvent.initMouseEvent(eventName, options.bubbles, options.cancelable, document.defaultView,
+            options.button, options.pointerX, options.pointerY, options.pointerX, options.pointerY,
+            options.ctrlKey, options.altKey, options.shiftKey, options.metaKey, options.button, element);
+        }
+        element.dispatchEvent(oEvent);
+    } else {
+        options.clientX = options.pointerX;
+        options.clientY = options.pointerY;
+        var evt = document.createEventObject();
+        oEvent = extend(evt, options);
+        element.fireEvent('on' + eventName, oEvent);
+    }
+    return element;
+}
+
+function extend(destination, source) {
+    for (var property in source)
+      destination[property] = source[property];
+    return destination;
+}
+
+var eventMatchers = {
+    'HTMLEvents': /^(?:load|unload|abort|error|select|change|submit|reset|focus|blur|resize|scroll)$/,
+    'MouseEvents': /^(?:click|dblclick|mouse(?:down|up|over|move|out))$/
+}
+
+var defaultOptions = {
+    pointerX: 0,
+    pointerY: 0,
+    button: 0,
+    ctrlKey: false,
+    altKey: false,
+    shiftKey: false,
+    metaKey: false,
+    bubbles: true,
+    cancelable: true
+}
 
 chrome.runtime.onMessage.addListener(
   function(request, sender, sendResponse) {
-    if (request.greeting == "hello") {
-
+    if (request.word == "zhihu") {
 
         var edit = document.getElementsByClassName("zm-editable-editor-field-element editable")[0];
-        edit.focus();
+        simulate(edit, "focus");
 
-        // var xsrf = document.getElementsByName("anno-checkbox")[0];
-        // xsrf.focus();
 
-        //document.execCommand('paste');
-
-        // var edit = document.getElementsByClassName('zm-editable-editor-field-element editable')[0];
-        // edit.focus();
-        // console.log(edit)
-        // var br = edit.childNodes[0];
-        // console.log(br)
-        // if(br.nodeName == 'BR') { edit.removeChild(br); };
-        // var temp = document.createElement('p');
-        // temp.innerHTML = 0;
-        // edit.appendChild(temp);
-       // edit.innerHTML = '<p>正常</p><p><br></p><p><br></p><p><br></p><p><br></p><p><b>粗的</b></p><p><br></p><p>正常</p>';
-
+        document.execCommand('paste');
     }
   });
