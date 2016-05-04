@@ -59,7 +59,6 @@ chrome.runtime.onMessage.addListener(
         var edit = document.getElementsByClassName("zm-editable-editor-field-element editable")[0];
         simulate(edit, "focus");
 
-
         document.execCommand('paste');
     }
   });
