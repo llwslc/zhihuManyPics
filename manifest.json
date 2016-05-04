@@ -16,6 +16,9 @@
     "matches": [ "http://www.zhihu.com/question/*", "https://www.zhihu.com/question/*" ],
     "run_at": "document_end"
   } ],
+  "background": {
+    "scripts": [ "js/background.js" ]
+  },
   "permissions": [ "tabs", "clipboardRead", "http://*.zhihu.com/", "https://*.zhihu.com/" ],
   "web_accessible_resources": [ "*.js" ]
 }

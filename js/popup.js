@@ -1,10 +1,15 @@
 (function() {
 
+    var bg = chrome.extension.getBackgroundPage();
+
     chrome.tabs.getSelected(null, function(tab){
         var urlReg = new RegExp("(http|https)://www.zhihu.com/question/[0-9]+")
         if (!urlReg.test(tab.url)) {
-            alert("当前页面不是答题页面...");
-            window.close();
+            bg.bgAlert()
+
+            // 注释代码 mac 系统闪退
+            // alert("当前页面不是答题页面...");
+            // window.close();
         }
     })
 

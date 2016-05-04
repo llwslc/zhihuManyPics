@@ -57,7 +57,15 @@ chrome.runtime.onMessage.addListener(
     if (request.word == "zhihu") {
 
         var edit = document.getElementsByClassName("zm-editable-editor-field-element editable")[0];
-        simulate(edit, "focus");
+        var draftStyle = document.getElementsByClassName("draft-saved-info")[0].style;
+        if (draftStyle.display == "none") {
+            simulate(edit, "focus");
+        } else {
+            simulate(edit.lastChild, "mouseover");
+            simulate(edit.lastChild, "mousemove");
+            simulate(edit.lastChild, "mouseout");
+            simulate(edit.lastChild, "mousedown");
+        }
 
         document.execCommand('paste');
     }
