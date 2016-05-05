@@ -65,7 +65,7 @@ chrome.runtime.onMessage.addListener(
             simulate(edit, "select");
 
 
-        var r = document.selection.createRange();
+        var r = edit.selection.createRange()
         r.moveStart('character', edit.innerText.length);
         r.collapse(true);
         r.select();
