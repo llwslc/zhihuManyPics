@@ -2,17 +2,7 @@
 
     var bg = chrome.extension.getBackgroundPage();
 
-    chrome.tabs.getSelected(null, function(tab){
-        var urlReg = new RegExp("(http|https)://www.zhihu.com/question/[0-9]+")
-        if (!urlReg.test(tab.url)) {
-            bg.bgAlert()
-
-            // 注释代码 mac 系统闪退
-            // alert("当前页面不是答题页面...");
-            // window.close();
-        }
-    })
-
+    var urlHeader = "https";
     var pStrArr = [];
     var pStrIndex = 0;
     var resString = "";
@@ -21,6 +11,19 @@
       cb(null, null)
     }
     htmlFuncArr.push(emptyFunc)
+
+    chrome.tabs.getSelected(null, function(tab){
+        var urlReg = new RegExp("(http|https)://www.zhihu.com/question/[0-9]+");
+        if (!urlReg.test(tab.url)) {
+            bg.bgAlert()
+
+            // 注释代码 mac 系统闪退
+            // alert("当前页面不是答题页面...");
+            // window.close();
+        } else {
+            urlHeader = tab.url.split(":")[0];
+        }
+    })
 
     function baseToBlob(imgScr) {
         var imgScrArr = imgScr.split(",");
@@ -45,7 +48,7 @@
         d = window.$.ajaxSettings.xhr();
         d.withCredentials = !0;
             var f = window.$.ajax({
-                url: "https://upload.zhihu.com/upload",
+                url: urlHeader + "://upload.zhihu.com/upload",
                 data: c,
                 processData: !1,
                 contentType: !1,
@@ -159,31 +162,5 @@
             .replace(new RegExp("(<strong>)([^\n]+)(</strong>)", "g"), "<b>$2</b>")
             .replace(new RegExp(" alt=\"[^\n]+\" ", "g"), "");
     }
-
-    sendMsgToContent()
 })();
 
-
-// zm-editable-editor-field-wrap-active
-
-// https://upload.zhihu.com/upload
-
-// <div id="mock:g" class="zm-editable-editor-field-element editable" g_editable="true" role="textbox" contenteditable="true">
-//     <p><b>重大更新预警...</b></p>
-//     <p><img src="https://pic2.zhimg.com/da623a98152f4f0188745f64ad355a89_s.jpg"></p>
-//     <p><br></p>
-//     <p><br></p>
-// </div>
-
-// word:
-// <p>正常</p>
-// <p></p>
-// <p></p>
-// <p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA5CAIAAAAJJrqAAAAABmJLR…GkwTpgI3Xv32iauTt4R9D4lWiKCrGDLyY+Ji8yn09p6v8Ah/PS0eeYe1AAAAAASUVORK5CYII=" alt="C:\Users\linux\Desktop\1.png" /></p>
-// <p></p>
-// <p></p>
-// <p><strong>粗的</strong></p>
-// <p></p>
-// <p>正常</p>
-
-//a= {"msg": ["https://pic2.zhimg.com/35d86ba3193209dce4024b69835c0327_b.png", 32, 38, "35d86ba3193209dce4024b69835c0327"], "code": 0}
