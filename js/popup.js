@@ -1,6 +1,10 @@
 (function() {
 
-    var bg = chrome.extension.getBackgroundPage();
+    var chromeExtensions = false;
+
+    if (chromeExtensions) {
+        var bg = chrome.extension.getBackgroundPage();
+    }
 
     var urlHeader = "https";
     var pStrArr = [];
@@ -12,18 +16,20 @@
     }
     htmlFuncArr.push(emptyFunc)
 
-    chrome.tabs.getSelected(null, function(tab){
-        var urlReg = new RegExp("(http|https)://www.zhihu.com/question/[0-9]+");
-        if (!urlReg.test(tab.url)) {
-            bg.bgAlert()
+    if (chromeExtensions) {
+        chrome.tabs.getSelected(null, function(tab){
+            var urlReg = new RegExp("(http|https)://www.zhihu.com/question/[0-9]+");
+            if (!urlReg.test(tab.url)) {
+                bg.bgAlert()
 
-            // 注释代码 mac 系统闪退
-            // alert("当前页面不是答题页面...");
-            // window.close();
-        } else {
-            urlHeader = tab.url.split(":")[0];
-        }
-    })
+                // 注释代码 mac 系统闪退
+                // alert("当前页面不是答题页面...");
+                // window.close();
+            } else {
+                urlHeader = tab.url.split(":")[0];
+            }
+        })
+    }
 
     function baseToBlob(imgScr) {
         var imgScrArr = imgScr.split(",");
@@ -124,24 +130,30 @@
     }
 
     function displayResult(result) {
-        var pStr = escapeHtml(result.value);
-        pStrArr = pStr.split("</p>");
+        pStrArr = result.value.split("</p>");
+        for (var i = 0; i < pStrArr.length; i++) {
+            pStrArr[i] = escapeHtml(pStrArr[i])
+        }
 
         pStrArr.pop()
-        for (var i = 0; i < pStrArr.length; i++) {
-            var htmlFunc = function(cbRes, cb) {
-                var curStr = pStrArr[pStrIndex];
-                pStrIndex++;
-                if (curStr.indexOf("<p><img src=") === 0) {
-                    var imgHtmlArr = curStr.split('"');
-                    var blobData = baseToBlob(imgHtmlArr[1]);
-                    uploadFunc(blobData, cb)
-                } else {
-                    cb(null, null)
+        if (chromeExtensions) {
+            for (var i = 0; i < pStrArr.length; i++) {
+                var htmlFunc = function(cbRes, cb) {
+                    var curStr = pStrArr[pStrIndex];
+                    pStrIndex++;
+                    if (curStr.indexOf("<img src=") === -1) {
+                        cb(null, null);
+                    } else {
+                        var imgHtmlArr = curStr.split('"');
+                        var blobData = baseToBlob(imgHtmlArr[1]);
+                        uploadFunc(blobData, cb);
+                    }
                 }
-            }
-            htmlFuncArr.push(htmlFunc)
-        };
+                htmlFuncArr.push(htmlFunc)
+            };
+        } else {
+            console.log(pStrArr)
+        }
     }
 
     function readFileInputEventAsArrayBuffer(event, callback) {
@@ -159,7 +171,7 @@
     function escapeHtml(value) {
         return value
             .replace(new RegExp("<p></p>", "g"), "<p><br></p>")
-            .replace(new RegExp("(<strong>)([^\n]+)(</strong>)", "g"), "<b>$2</b>")
+            .replace(new RegExp("<strong>([^\n]+)</strong>", "g"), "<b>$1</b>")
             .replace(new RegExp(" alt=\"[^\n]+\" ", "g"), "");
     }
 })();
