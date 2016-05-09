@@ -1,6 +1,6 @@
 (function() {
 
-    var chromeExtensions = false;
+    var chromeExtensions = true;
 
     if (chromeExtensions) {
         var bg = chrome.extension.getBackgroundPage();
