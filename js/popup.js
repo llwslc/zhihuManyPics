@@ -151,8 +151,6 @@
                 }
                 htmlFuncArr.push(htmlFunc)
             };
-        } else {
-            console.log(pStrArr)
         }
     }
 
