@@ -132,7 +132,7 @@
     function displayResult(result) {
         pStrArr = result.value.split("</p>");
         for (var i = 0; i < pStrArr.length; i++) {
-            pStrArr[i] = escapeHtml(pStrArr[i])
+            pStrArr[i] = escapeHtml(pStrArr[i]);
         }
 
         pStrArr.pop()
@@ -170,7 +170,7 @@
 
     function escapeHtml(value) {
         return value
-            .replace(new RegExp("<p></p>", "g"), "<p><br></p>")
+            .replace(new RegExp("<p>$", "g"), "<p><br>")
             .replace(new RegExp("<strong>([^\n]+)</strong>", "g"), "<b>$1</b>")
             .replace(new RegExp(" alt=\"[^\n]+\" ", "g"), "");
     }
