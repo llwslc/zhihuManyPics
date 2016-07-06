@@ -1,5 +1,7 @@
 (function() {
 
+    var debugFlag = false;
+
     var chromeExtensions = true;
 
     if (chromeExtensions) {
@@ -80,7 +82,9 @@
     function sendMsgToContent() {
         chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
             chrome.tabs.sendMessage(tabs[0].id, {word: "zhihu"});
-            window.close();
+            if (!debugFlag) {
+                window.close();
+            };
         });
     }
 
@@ -130,6 +134,10 @@
     }
 
     function displayResult(result) {
+        if (debugFlag) {
+            console.log(result)
+        };
+
         pStrArr = result.value.split("</p>");
         for (var i = 0; i < pStrArr.length; i++) {
             pStrArr[i] = escapeHtml(pStrArr[i]);
