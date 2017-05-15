@@ -68,7 +68,7 @@
     d = window.$.ajaxSettings.xhr();
     d.withCredentials = !0;
     var f = window.$.ajax({
-      url: urlHeader + "://www.zhihu.com/api/v4/uploaded_images",
+      url: urlHeader + "://upload.zhihu.com/upload",
       data: c,
       processData: !1,
       contentType: !1,
