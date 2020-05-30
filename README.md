@@ -27,17 +27,3 @@
 ## PS
 * 如果回答编辑框没有内容输入, 可以尝试在输入框直接粘贴
 
-<<<<<<< HEAD
-=======
-<br />
-<br />
-<br />
-<br />
-<br />
-## 捐赠
-
-* 如果这个模块对您有用, 请大力 Star 它
-* 如果您想给我捐赠, 可以选择微信或者支付宝:
-
-![image](https://github.com/llwslc/zhihuManyPics/blob/master/QRCode/QR.png)
->>>>>>> b5d142f... update
